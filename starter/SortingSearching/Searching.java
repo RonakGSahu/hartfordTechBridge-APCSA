@@ -9,10 +9,10 @@ public class Searching
 {
     public static boolean linearSearch(int[] data, int target)
     {
-        return false;
+        return false; // Replace with your implementation
     }
     public static boolean binarySearch(int[] data, int target)
     {
-        return false;
+        return false; // Replace with your implementation
     }
 }
