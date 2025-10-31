@@ -13,7 +13,7 @@ public class Connect4
         
         Player[] players = new Player[] { 
             new HumanPlayer("Player 1", 'x'), 
-            new HumanPlayer("Player 2", 'o')
+            new RandomPlayer('o')
         };
         
         int turn = 0;
