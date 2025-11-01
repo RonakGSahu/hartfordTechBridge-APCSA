@@ -2,9 +2,10 @@
 
 In this worksheet, we will be creating a small game where we will create a player that can move around the screen. We will use the w/a/s/d keys to move the player up/left/down/right respectively. You can then change it to add more features like obstacles, scoring, or enemies.
 
-The goal is to make an implementation that will look similar to this video:
+The goal is to make an implementation that will look similar to this video (click on the image to watch the video):
 
-https://github.com/user-attachments/assets/47404033-9c41-4974-bc47-ab1d10fb826b
+[![Watch this video!](https://img.youtube.com/vi/NEIqjUgazXQ/0.jpg)](https://www.youtube.com/watch?v=NEIqjUgazXQ)
+
 
 In this we have a walker (W) that can move around the screen using the w/a/s/d keys. the button 'q' can be used to quit the game.
 
